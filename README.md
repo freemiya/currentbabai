@@ -16,6 +16,6 @@ Using PyTesseract requires two things :
 
 # PyTesseract OCR module (For Windows):
 
-1. Download .exe from ![here](https://github.com/UB-Mannheim/tesseract/wiki)
-2. Place it in "C:\Program Files\Tesseract-OCR"
-3. For more details, go ![here](https://github.com/tesseract-ocr/tesseract/wiki)
+1. Download .exe from [here](https://github.com/UB-Mannheim/tesseract/wiki)
+2. During installation, place it in "C:\Program Files\Tesseract-OCR"
+3. For more details, go [here](https://github.com/tesseract-ocr/tesseract/wiki)
