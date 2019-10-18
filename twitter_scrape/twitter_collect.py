@@ -14,10 +14,10 @@ import sys
 import time
 
 #Twitter API credentials
-consumer_key = "XUFh1M5YQPYhHFYqzc0dMzoYf"
-consumer_secret = "VCB6vkYoXQvM5gAj6b9ezWF1dbkCUllrPfRCa5wYxojNN3csZA"
-access_key = "629423321-HLJjxmOpp9EGwrNJQsYjcNu4NYqSamLDdhd1SaEl"
-access_secret = "B2julJsG4qicmLAyu8apVe3449o60MSOuWJsHsaeMqMqw"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 
 
