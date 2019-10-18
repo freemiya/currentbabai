@@ -1,6 +1,8 @@
 # currentbabai
 Simple app to send notifications about electricity changes.
 
+**Would be happy if you can share and develop this repo.**
+
 Structure : 
 
 <ul>
