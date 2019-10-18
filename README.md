@@ -1,5 +1,8 @@
 # currentbabai
-Simple app to send notifications about electricity changes.
+Simple app to send notifications about electricity updates in Twitter. Bangalore electricity board shares updates in the form of images.
+![images](https://github.com/freemiya/currentbabai/blob/master/ocr_tesseract/test.png). 
+
+I wanted an app, which would mail me, when my area is mentioned in a electricity update.
 
 **Would be happy if you can share and develop this repo.**
 
